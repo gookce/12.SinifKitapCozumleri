@@ -1,0 +1,37 @@
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\App.xbf
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\Dersim.xbf
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\MainPage.xbf
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\12.Sınıf Kitap Çözümleri.Windows.xr.xml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\12.Sınıf Kitap Çözümleri.Windows.exe
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\12.Sınıf Kitap Çözümleri.Windows.pdb
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\resources.pri
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\AppxManifest.xml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\bin\Release\12.Sınıf Kitap Çözümleri.Windows.build.appxrecipe
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\App.g.i.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\App.g.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\Dersim.g.i.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\Dersim.g.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\MainPage.g.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\App.xaml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\Dersim.xaml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\MainPage.xaml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\App.xbf
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\Dersim.xbf
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\MainPage.xbf
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\12.Sınıf Kitap Çözümleri.Windows.exe
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\12.Sınıf Kitap Çözümleri.Windows.pdb
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\priconfig.xml
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\priconfig.xml.intermediate
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\layout.resfiles
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\layout.resfiles.intermediate
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\resources.resfiles
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\resources.resfiles.intermediate
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\pri.resfiles
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\pri.resfiles.intermediate
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\qualifiers.txt
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\qualifiers.txt.intermediate
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Desktop\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri\12.Sınıf Kitap Çözümleri.Windows\obj\Release\ProjectArchitectures.txt
